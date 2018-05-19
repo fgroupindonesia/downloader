@@ -16,6 +16,7 @@ import javax.swing.JProgressBar;
 
 /**
  * This file is made to make process of downloading become easier
+ * it can be easily integrated to any JAVA SWING application 
  * @author FGroupIndonesia.com
  */
 public class Downloader {
