@@ -44,7 +44,7 @@ public class Downloader {
     }
     
     public Downloader(String sourceURLOrAbsoluteFile, String targetDirSave, JProgressBar progBar){
-        if(sourceURLOrAbsoluteFile.contains("http://") || sourceURLOrAbsoluteFile.contains("http://")){
+        if(sourceURLOrAbsoluteFile.contains("https://") || sourceURLOrAbsoluteFile.contains("http://")){
             setSourceURL(sourceURLOrAbsoluteFile);
         }else {
             setSourceAbsoluteFile(sourceURLOrAbsoluteFile);
