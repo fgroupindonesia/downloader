@@ -39,6 +39,22 @@ public class Downloader {
 
     private JProgressBar progressBar;
 
+    public Downloader(){
+    
+    }
+    
+    public Downloader(String sourceURLOrAbsoluteFile, String targetDirSave, JProgressBar progBar){
+        if(sourceURLOrAbsoluteFile.contains("http://") || sourceURLOrAbsoluteFile.contains("http://")){
+            setSourceURL(sourceURLOrAbsoluteFile);
+        }else {
+            setSourceAbsoluteFile(sourceURLOrAbsoluteFile);
+        }
+        
+        setTargetAbsoluteDirectory(targetDirSave);
+        setProgressBar(progBar);
+        
+    }
+    
     public void start() {
 
         percentage = 0;
