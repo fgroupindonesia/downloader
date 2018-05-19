@@ -15,7 +15,7 @@ import java.util.Map;
 import javax.swing.JProgressBar;
 
 /**
- *
+ * This file is made to make process of downloading become easier
  * @author FGroupIndonesia.com
  */
 public class Downloader {
