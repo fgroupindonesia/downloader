@@ -18,7 +18,8 @@ import javax.swing.JProgressBar;
  * This file is made to make process of downloading become easier
  * it can be easily integrated to any JAVA SWING application 
  * for every *.Jar released it will be included as well since 
- * 2018, 19th May
+ * 2018, 19th May    
+ * trying once more
  * @author FGroupIndonesia.com
  */
 public class Downloader {
@@ -243,6 +244,7 @@ public class Downloader {
      */
     public void setSourceURL(String sourceURL) {
         this.sourceURL = sourceURL;
+        usageURL = true;
     }
 
     /**
@@ -257,6 +259,7 @@ public class Downloader {
      */
     public void setSourceAbsoluteFile(String sourceAbsoluteFile) {
         this.sourceAbsoluteFile = sourceAbsoluteFile;
+        usageURL = false;
     }
 
     /**
