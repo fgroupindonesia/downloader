@@ -4,7 +4,7 @@
 ###### :exclamation: it is a library that helps you to download and show the progress bar within Java Swing
 
 ## English Tutorial Text :sunny:
-The usage is quite simple, what you have to prepare are:
+The usage is quite simple, you have to prepare these components:
 1) JProgressBar
 2) Source (URL or AbsolutePath)
 3) Target Directory (for saving purpose)
@@ -29,9 +29,11 @@ Downloader tool = new Downloader(textfieldSource.getText(), textfieldDirSave.get
 tool.start();
 ```
 
+:zap::zap: :zap::zap: -------------------------------- :zap::zap: :zap::zap: 
+
 
 ## Tutorial Text Indonesia :sunny:
-Penggunaannya cukup simple kamu cuma butuhin cuma:
+Penggunaannya cukup simple kamu butuhin komponen ini:
 1) JProgressBar
 2) Source (URL or AbsolutePath)
 3) Target Directory (for saving purpose)
@@ -58,4 +60,8 @@ tool.start();
 
 
 ## Preview
-![GUI](src/preview/Downloader_Library.PNG)
+![GUI](src/preview/Downloader_Library2.PNG)
+
+
+## Credits
+Goes back to (c) FGroupIndonesia.com for educational -class / general projects' purposes.
