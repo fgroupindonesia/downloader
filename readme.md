@@ -12,6 +12,7 @@ We have 2 special helpers over here, such as :
 The usage is quite simple, you have to prepare these components:
 1) Destination URL
 2) Key-Value parameter data
+3) Either POST / GET method
 
 
 ## Quick code:
