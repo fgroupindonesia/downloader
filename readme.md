@@ -33,9 +33,9 @@ tool.start();
 
 
 ## Tutorial Text Indonesia :sunny:
-Penggunaannya cukup simple kamu butuhin komponen ini:
+Penggunaannya cukup simple, yang kamu butuhin komponen ini:
 1) JProgressBar
-2) Source (URL or AbsolutePath)
+2) Source (URL atau AbsolutePath)
 3) Target Directory (for saving purpose)
 
 ## Kode Cepat:
