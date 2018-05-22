@@ -13,7 +13,6 @@ import javax.net.ssl.HttpsURLConnection;
 
 /**
  * Created in the early morning @06:19am, 22nd May 2018 in Bandung, Indonesia.
- *
  * @author FGroupIndonesia.com
  */
 public class WebRequest {
