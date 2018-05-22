@@ -1,4 +1,5 @@
-# What's Inside?
+# WHAT'S INSIDE?
+We have 2 special helpers over here, such as :
 - Downloader
 - WebRequest
 
@@ -7,7 +8,7 @@
 ###### :exclamation: merupakan library termudah dalam melakukan proses request POST / GET dalam Java
 ###### :exclamation: it is the easiest library for processing GET / POST method in Java
 
-## WebRequest Tutorial Text :sunny:
+## WebRequest Tutorial :sunny:
 The usage is quite simple, you have to prepare these components:
 1) Destination URL
 2) Key-Value parameter data
@@ -30,7 +31,7 @@ The usage is quite simple, you have to prepare these components:
 ###### :exclamation: merupakan library mempermudah proses download beserta penampakan progress bar dalam Java Swing
 ###### :exclamation: it is a library that helps you to download and show the progress bar within Java Swing
 
-## Downloader Tutorial Text :sunny:
+## Downloader Tutorial :sunny:
 The usage is quite simple, you have to prepare these components:
 1) JProgressBar
 2) Source (URL or AbsolutePath)
